@@ -43,3 +43,9 @@ Agnostic core with specific hints for Node.js, Python, Rust, Go, .NET, Ruby, and
 | `git-repo-prep` | Router — detects intent, dispatches |
 | `git-repo-prep:prepare` | Full 9-phase open-source prep lifecycle |
 | `git-repo-prep:review` | Standalone openness audit |
+
+---
+
+If Git Repo Prep caught something before you went public, a ⭐ helps us know it's landing.
+
+Built by [2389](https://2389.ai) · Part of the [Claude Code plugin marketplace](https://github.com/2389-research/claude-plugins)
