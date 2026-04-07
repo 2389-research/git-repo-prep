@@ -5,6 +5,7 @@ Prepare codebases for public/open-source release and audit them for openness.
 ## Installation
 
 ```
+/plugin marketplace add 2389-research/claude-plugins
 /plugin install git-repo-prep@2389-research
 ```
 
