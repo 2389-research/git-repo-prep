@@ -1,6 +1,6 @@
 ---
 name: review
-description: Use when auditing a codebase for openness, checking for secrets, missing docs, or gaps before public release. Re-runnable at any point.
+description: Audits a codebase for openness across secrets, license, documentation, gitignore, CI/CD, and metadata, with severity-classified findings. Use when checking a repo for secrets, missing docs, or gaps before making it public — or at any point after preparation to validate state.
 ---
 
 # Review Repo for Openness
