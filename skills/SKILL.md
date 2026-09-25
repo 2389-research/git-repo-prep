@@ -1,6 +1,6 @@
 ---
 name: git-repo-prep
-description: Use when preparing a codebase for public/open-source release, reviewing a repo for openness, or auditing for secrets and missing documentation before making code public. Triggers on "open source", "public release", "prepare repo", "openness", "repo review", "make public", "open-source prep".
+description: Routes between prepare (full lifecycle) and review (standalone audit) for open-source release workflows. Use when making a repo public, open-sourcing a project, auditing for secrets or missing documentation, preparing for public release, or reviewing a repo for openness.
 ---
 
 # Git Repo Prep
