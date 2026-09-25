@@ -57,4 +57,3 @@ Skills were developed using TDD for documentation:
 4. Test with skill (verify improvement)
 5. Close loopholes (severity drift, missing categories)
 
-Test scenarios and results are in the companion development repo (`skills-dev/git-repo-prep/tests/`).

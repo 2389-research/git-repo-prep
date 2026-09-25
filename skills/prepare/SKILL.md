@@ -1,6 +1,6 @@
 ---
 name: prepare
-description: Use when preparing a codebase for first-time public/open-source release. Full lifecycle from audit through documentation, hardening, and final review.
+description: Audits and prepares a codebase for public or open-source release through 9 interactive phases covering secrets, license, documentation, gitignore, hardening, and metadata. Use when releasing a private or internal repository publicly or open-sourcing a project. For a standalone read-only audit without the preparation workflow, use git-repo-prep:review.
 ---
 
 # Prepare for Open-Source Release
@@ -52,15 +52,7 @@ Detect the ecosystem and scan project structure.
 
 **Detect ecosystem by looking for:**
 
-| File | Ecosystem |
-|------|-----------|
-| `package.json` | Node.js |
-| `pyproject.toml` / `setup.py` / `setup.cfg` | Python |
-| `Cargo.toml` | Rust |
-| `go.mod` | Go |
-| `*.csproj` / `*.sln` | .NET |
-| `Gemfile` | Ruby |
-| `pom.xml` / `build.gradle` | Java/Kotlin |
+Use the file-to-ecosystem mapping defined in the [Ecosystem Detection section of git-repo-prep:review](../review/SKILL.md) — the same indicators apply here.
 
 **Report what exists (present/missing):**
 - README
