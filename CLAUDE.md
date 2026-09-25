@@ -2,7 +2,7 @@
 
 ## Overview
 
-Plugin with two skills for open-source readiness: `prepare` (full lifecycle) and `review` (standalone audit). Router in `skills/SKILL.md` dispatches based on user intent.
+Plugin with two skills for open-source readiness: `prepare` (full lifecycle) and `review` (standalone audit). Router in `skills/git-repo-prep/SKILL.md` dispatches based on user intent.
 
 ## Skills Included
 
